@@ -1,4 +1,1 @@
-API end point
-http://localhost:5000/api/signup
-http://localhost:5000/api/signin
-http://localhost:5000/uploadProfile
+Student Profile Register Login Upload Photo with Multer and delete photo or file API Design
